@@ -1,9 +1,0 @@
----
-apiVersion: v1
-kind: Namespace
-metadata:
-  name: "simplenodeservice-team59-preprod"
-  labels:
-    dt.owner: "team59"
-  annotations:
-    keptn.sh/lifecycle-toolkit: "enabled"
